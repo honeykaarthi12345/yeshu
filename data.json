@@ -1,0 +1,48 @@
+{"details":{
+  "image":"123.jpg",
+  "name":"mahi",
+  "phoneno":"91-0987654321",
+  "email":"yesaswinich@gmail.com",
+  "address":"MIC clg.kanchikacherla"
+},
+"career":{
+  "info":"to pursue a challenging career"
+},
+"education":[
+  {
+"qualification":"B.Tech",
+"Institute":"MIC college",
+"year":"2016-2020",
+"percentage":"89%"
+},
+{
+"qualification":"intermediate",
+"Institute":"sri gayatri jr college",
+"year":"2015-2016",
+"percentage":"96%"
+},
+{
+  "qualification":"ssc",
+  "Institute":"arunodaya",
+  "year":"2014",
+  "percentage":"98%"
+}
+],
+"skill":[{
+  "title":"Programming language",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "title":"Databades",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating Systems",
+  "info":["windows,linux,ubuntu,DOS"]
+},
+{
+  "title":"achievements",
+  "info":["1st at kho kho,best in dance"]
+}
+]
+}
